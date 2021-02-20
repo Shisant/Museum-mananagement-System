@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="coursework.DashboardForm">
+    <Position X="6" Y="1.25" Width="2.75" />
+    <Members>
+      <Method Name="button1_Click" Hidden="true" />
+      <Method Name="button1_Click_1" Hidden="true" />
+      <Method Name="button2_Click" Hidden="true" />
+      <Method Name="DashboardForm" Hidden="true" />
+      <Method Name="DashboardForm_Load" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAAAAgAAOAAAyBAAAA=</HashCode>
+      <FileName>DashboardForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="coursework.ImportCSV">
+    <Position X="9.5" Y="0.75" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AgCICASFCDAQwBECAASoAAgCAhggAEghAUAAAwgFBRA=</HashCode>
+      <FileName>ImportCSV.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="coursework.Form1">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAgAQkACAAAJAiIACCIAgCAAAFAQAAAEEAAQMAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="coursework.Visitor">
+    <Position X="0.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAACAAAAAAAQAAAAABBADAQAAgAAAAAA=</HashCode>
+      <FileName>Visitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="coursework.Program">
+    <Position X="14.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
