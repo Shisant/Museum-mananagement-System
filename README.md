@@ -1,5 +1,5 @@
 # Museum-mananagement-System
-The main aims of this coursework is to design and develop a desktop application using OOP and C#. The main objective is to gather requirements and skills for development and implement it in development.
+The main aims of this task is to design and develop a desktop application using OOP and C#. The main objective is to gather requirements and skills for development and implement it in development.
 The final product of this assessment is to develop desktop system application for the Museum. Sets of instruction is described in detailed manner that makes easy for user. Some of the important guidance and instruction are described as:
 1. System starts and displays a home screen, which has two buttons, Add and Record. Add opens new form to add new visitor and record opens a new form to view visitor’s details.
 2. Adding Visitor is simple inserting values in the textbox and call save method through a button. Values includes visitor’s general information along with Entry time, date and Day.
